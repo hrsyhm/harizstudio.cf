@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hariz Syahmi Jalaludin</h1>
-<img src="img/photo1.jpg" width="128"/>
+<p align="center"</p><img src="img/photo1.jpg" width="50%" alt="harizwhitehat"/>
 <h3 align="center">A passionate frontend developer from Malaysia</h3>
 
 - 🌐 My Official Website [https://harizstudi.cf](https://harizstudi.cf)
