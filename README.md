@@ -4,10 +4,10 @@
 
 <h3 align="left">Shortcut:</h3><br>
 
-- [Nav](https://github.com/harizwhitehat/harizstudio.cf#Nav:)
-- [Connect with me](https://github.com/harizwhitehat/harizstudio.cf#Connect-with-me:)
-- [Languages and Tools](https://github.com/harizwhitehat/harizstudio.cf#Languages-and-Tools:)
-- [Analytic](https://github.com/harizwhitehat/harizstudio.cf#NAnalytic:)
+- [Nav](https://github.com/harizwhitehat/harizstudio.cf#nav:)
+- [Connect with me](https://github.com/harizwhitehat/harizstudio.cf#connect-with-me:)
+- [Languages and Tools](https://github.com/harizwhitehat/harizstudio.cf#languages-and-tools:)
+- [Analytic](https://github.com/harizwhitehat/harizstudio.cf#analytic:)
 
 <h3 align="left">Nav:</h3><br>
 
