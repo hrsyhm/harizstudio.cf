@@ -2,6 +2,13 @@
 <p align="center"</p><img src="img/photo1.jpg" width="50%" alt="harizwhitehat"/>
 <h2 align="center">A passionate frontend developer from Malaysia</h2>
 
+<h3 align="left">Shortcut:</h3><br>
+
+- [Nav](https://github.com/harizwhitehat/harizstudio.cf#Nav:)
+- [Nav](https://github.com/harizwhitehat/harizstudio.cf#Connect with me::)
+- [Nav](https://github.com/harizwhitehat/harizstudio.cf#Languages and Tools::)
+- [Nav](https://github.com/harizwhitehat/harizstudio.cf#NAnalytic:)
+
 <h3 align="left">Nav:</h3><br>
 
 - 🌐 My Official Website [https://harizstudi.cf](https://harizstudi.cf)<br>
