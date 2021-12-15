@@ -5,9 +5,9 @@
 <h3 align="left">Shortcut:</h3><br>
 
 - [Nav](https://github.com/harizwhitehat/harizstudio.cf#Nav:)
-- [Nav](https://github.com/harizwhitehat/harizstudio.cf#Connect with me::)
-- [Nav](https://github.com/harizwhitehat/harizstudio.cf#Languages and Tools::)
-- [Nav](https://github.com/harizwhitehat/harizstudio.cf#NAnalytic:)
+- [Connect with me](https://github.com/harizwhitehat/harizstudio.cf#Connect-with-me:)
+- [Languages and Tools](https://github.com/harizwhitehat/harizstudio.cf#Languages-and-Tools:)
+- [Analytic](https://github.com/harizwhitehat/harizstudio.cf#NAnalytic:)
 
 <h3 align="left">Nav:</h3><br>
 
